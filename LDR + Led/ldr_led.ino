@@ -40,7 +40,7 @@ void loop()
   // liga o led, se não ele desliga, ele faz isso chamando funções
   if(valorLDR >= 81)
   {
-  	digitalWrite(LED, HIGH);
+  	ligaLED();
   }
   else
   {
