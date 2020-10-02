@@ -2,10 +2,6 @@
 
 ### Projetos realizados 👨‍🏫
 
-
-:small_blue_diamond: [Materiais auxiliares](https://github.com/LuigiBelanda/Projetos-Arduino/tree/master/Materiais%20auxiliares)
-
-
 :small_blue_diamond: [Buffer + Buttons](https://github.com/LuigiBelanda/Projetos-Arduino/tree/master/Buffer%20%2B%20Buttons)
 
 :small_blue_diamond: [Potenciômetro + Led RGB](https://github.com/LuigiBelanda/Projetos-Arduino/tree/master/Potenci%C3%B4metro%20%2B%20Led%20RGB)
