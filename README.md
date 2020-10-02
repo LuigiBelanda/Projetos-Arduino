@@ -10,6 +10,8 @@
 
 :small_blue_diamond: [Sensor de presença](https://github.com/LuigiBelanda/Projetos-Arduino/tree/master/Sensor%20de%20presen%C3%A7a)
 
+:small_blue_diamond: [LDR + Led](https://github.com/LuigiBelanda/Projetos-Arduino/tree/master/LDR%20%2B%20Led)
+
 ## Licença 
 
 The [MIT License](https://github.com/LuigiBelanda/Projetos-Arduino/blob/master/LICENSE) (MIT)
