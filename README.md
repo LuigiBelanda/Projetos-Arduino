@@ -12,6 +12,8 @@
 
 :small_blue_diamond: [LDR + Led](https://github.com/LuigiBelanda/Projetos-Arduino/tree/master/LDR%20%2B%20Led)
 
+:small_blue_diamond: [Sensor infravermelho + Controle + Leds](https://github.com/LuigiBelanda/Projetos-Arduino/tree/master/Sensor%20infravermelho%20%2B%20Controle%20%2B%20Leds)
+
 ## Licença 
 
 The [MIT License](https://github.com/LuigiBelanda/Projetos-Arduino/blob/master/LICENSE) (MIT)
