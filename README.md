@@ -16,6 +16,8 @@
 
 :small_blue_diamond: [Sensor de temperatura + Led](https://github.com/LuigiBelanda/Projetos-Arduino/tree/master/Sensor%20de%20temperatura%20%2B%20Led)
 
+:small_blue_diamond: [Servo motor](https://github.com/LuigiBelanda/Projetos-Arduino/tree/master/Servo%20motor)
+
 ## Licença 
 
 The [MIT License](https://github.com/LuigiBelanda/Projetos-Arduino/blob/master/LICENSE) (MIT)
